@@ -2,9 +2,7 @@
     Donald Elmore and Kyle McMindes
 
     Huffman Codec
-
-    Requires use of attached lab4.h file
-
+    
     References: GeeksForGeeks Huffman coding page was used for Huffman helper
         functions as they are widely known and used so no need to reinvent the wheel
 */

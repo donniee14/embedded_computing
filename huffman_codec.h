@@ -1,9 +1,5 @@
 /*
     Donald Elmore and Kyle McMindes
-    ECE 4680-001 - Embedded Computing
-    lab 4 - huffman codec
-
-    Requires use of attached lab4.c file
 */
 
 #include <stdio.h>
